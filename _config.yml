@@ -21,10 +21,7 @@ author: ASAB
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Read Me: "README"
 
 ################
 # --- Logo --- #
@@ -143,7 +140,7 @@ navbar-text-col: "#FFF0F5"
 navbar-border-col: "#DDDDDD"
 footer-col: "#5F9EA0"
 footer-text-col: "#FFF0F5"
-footer-link-col: "#008AFF"
+footer-link-col: "#FFF0F5"
 footer-hover-col: "#ADD8E6"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
