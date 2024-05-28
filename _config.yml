@@ -20,10 +20,10 @@ author: ASAB
 ###############################################
 
 navbar-links:
-  Programme: "Programme.md"
+  Programme: "Programme"
   Attendee Information:
-    - Presenters: "Programme.md"
-    - Attendees: "Programme.md"
+    - Presenters: "Programme"
+    - Attendees: "Programme"
 
 ################
 # --- Logo --- #
