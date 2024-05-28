@@ -21,6 +21,9 @@ author: ASAB
 
 navbar-links:
   Programme: "Programme"
+  Attendee Information:
+    - Presenters: "Programme"
+    - Attendees: "Programme"
 
 ################
 # --- Logo --- #
