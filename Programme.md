@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Programme
-permalink: /programme/
 ---
 
 #### Day 1: 23rd of April 2025  
