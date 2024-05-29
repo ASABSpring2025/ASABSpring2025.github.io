@@ -20,12 +20,12 @@ author: ASAB
 ###############################################
 
 navbar-links:
-  Venue: "Venue"
   Programme of Events: 
-   - Schedule: "Programme"
+   - Programme: "Programme"
    - Plenaries: "Plenary"
    - Workshop: "Workshop"
   Attendance Information:
+    - Venue: "Venue"
     - Register: "Register"
     - Presenters: "Presenters"
     - Attendees: "Attendees"
