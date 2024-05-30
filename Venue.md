@@ -6,7 +6,7 @@ title: "Venue"
 ### The City of Liverpool
 
 >The conference will be taking place in Liverpool, a history port city in Northern England.  
-![Liverpool]("assets/img/liverpoolcity.jpg")
+![Liverpool]("ginbobby.github.io/assets/img/liverpoolcity.jpg")
 
 #### Conference Venue  
 >The conference venue is [add correct address here](https://maps.app.goo.gl/GRzKjEADuGJPZ7qP6). The University is located in the centre of Liverpool, and is accessable via the M62. There are also several trains to Liverpool City Centre from Manchester (~1 hour), London (~3 hours), and Edinburgh (~4 hours).
