@@ -5,6 +5,8 @@ title: "Plenary Speakers"
 
 ### Professor Albus Dumbledore  
 ![Dumbledore](https://en.wikipedia.org/wiki/Albus_Dumbledore#/media/File:Dumbledore_-_Prisoner_of_Azkaban.jpg)
+![Dumbledore]({{https://en.wikipedia.org}}/wiki/Albus_Dumbledore#/media/File:Dumbledore_-_Prisoner_of_Azkaban.jpg "Dumbledore")
+
 #### Wizardary and Witchcraft  
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
 
