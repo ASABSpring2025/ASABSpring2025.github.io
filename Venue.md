@@ -7,7 +7,7 @@ title: "Venue"
 
 >The conference will be taking place in **Liverpool**, a historic port city in Northern England.
 
-![Liverpool]({{ginbobby.github.io}}/assets/img/liverpoolcity.jpg "Liverpool")
+![Liverpool]({{ASABSpring2025.github.io}}/assets/img/liverpoolcity.jpg "Liverpool")
 
 #### Conference Venue  
 Our conference venue this year will be at the **add conference venue**
