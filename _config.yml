@@ -54,7 +54,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "asabspring2025@gmail.com"
+  email: "asabeaster2025@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: ASABorganisation
  # github: daattali
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "asab2025.github.io"
+url-pretty: "asabspring2025.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
