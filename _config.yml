@@ -22,13 +22,13 @@ author: ASAB
 navbar-links:
   Programme of Events: 
    - Programme: "Programme"
-   - Plenaries: "Plenary"
    - Workshop: "Workshop"
+   - Plenary Speakers: "Plenary"
   Attendance Information:
     - Venue: "Venue"
     - Register: "Register"
-    - Presenters: "Presenters"
-    - Attendees: "Attendees"
+    - How to Present: "Presenters"
+    - Info for Attendees: "Attendees"
 
 ################
 # --- Logo --- #
