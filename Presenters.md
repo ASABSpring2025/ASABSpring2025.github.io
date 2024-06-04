@@ -33,7 +33,7 @@ Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on
 
 #### Posters  
 Posters should be **A1** (59.4 cm x 84.1 cm), and in **portrait** orientation.  
-The poster session will take place on (add date), for more information see our [programme](add link to pdf programme)
+The poster session will take place on (add date), for more information see our [programme.](https://asabspring2025.github.io/Programme/)
 
 #### Research Ethics
 Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s [Guidelines for the Treatment of Animals in Research]("https://www.sciencedirect.com/science/article/pii/S0003347222002469"). We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. Note that these Guidelines are often more exacting than what is merely legal, such as the housing conditions of social species. If your research was invasive and/or experimental, there is a space on the registration form for clarifying how these standards were adhered to.
