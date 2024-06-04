@@ -17,4 +17,4 @@ Our conference venue this year will be at the **add conference venue**
 >The nearest airports are [Liverpool John Lennon Airport](https://www.liverpoolairport.com/) and [Manchester Airport](https://www.manchesterairport.co.uk/). Liverpool is also a major port town, and is accessible by [ferry](https://www.directferries.co.uk/liverpool_ferry.htm#:~:text=Liverpool%20(P%26O%20Ferries%20terminal)%20The,ferry%20terminal%20at%20Gladstone%20Dock.).
 
 #### Accomodation
->Please find attached our [offical accomadation hosts](add link).
+>Please find our [offical accomadation hosts](https://liverpoolcvbres.bzon.uk/event/asab-spring-conference-2025).
