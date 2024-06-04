@@ -10,4 +10,4 @@ title: "Workshop"
 * Workshop 2: **Creating Interesting Infographics**
 * Workshop 3: **Developing Science in Film**  
 
-For more detailed information, see our [Programme Page](https://ginbobby.github.io/Programme/)
+For more detailed information, see our [Programme Page](https://ASABSpring2025.github.io/Programme/)
