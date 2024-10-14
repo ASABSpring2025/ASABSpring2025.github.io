@@ -4,9 +4,9 @@ title: ASAB Spring Conference 2025
 subtitle: Hosted by Liverpool John Moores University
 ---
 ![ASAB Logo]({{ASABSpring2025.github.io}}/assets/img/ASAB_16-9.jpg "ASAB Logo")
-<center>### Welcome to the ASAB Spring Conference 2025</center>
+### <center> Welcome to the ASAB Spring Conference 2025</center>
 
-Our Spring conference is an opportunity to showcase your animal behaviour research to a global audience! The three day event will be split into a one-day workshop and two days of conference sessions.
+<center>Our Spring conference is an opportunity to showcase your animal behaviour research to a global audience! The three day event will be split into a one-day workshop and two days of conference sessions.</center>
 
 
 #### Conference Schedule  
