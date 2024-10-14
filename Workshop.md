@@ -3,8 +3,8 @@ layout: page
 title: "Workshop"
 ---
 
-### <centre>Science Communication</centre>
-><centre>The ASAB 2025 Workshop topic will be focusing on **Science Communication.** Our workshop will be broken into three sections, each tackling a different aspect of science communication.</centre>>
+### <center>Science Communication</center>
+><center>The ASAB 2025 Workshop topic will be focusing on **Science Communication.** Our workshop will be broken into three sections, each tackling a different aspect of science communication.</center>>
 
 The workshop will be hosted in LJMU's own [Student Life Building](https://maps.app.goo.gl/8DWsNPFvSQrHEdg97), located right next to the historic Liverpool Lime Street Train Station.
 
