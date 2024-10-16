@@ -38,7 +38,7 @@ ASAB awards Childcare Grants of up to £500. The awards are designed to provide 
 Attendees are invited to provide details of children and/or care-givers attending by [email](add email) to the organising committee. A member of the organising committee may then contact you to seek further information.  
 
 #### Accessibility  
-The [venue](add link to venue pdf} is fully step-free wheelchair accessible, with an accessible toilet next to the meeting rooms. Attendees are invited to give accessibility or disability information by email in advance, and may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.  
+The [venue](add link to venue pdf) is fully step-free wheelchair accessible, with an accessible toilet next to the meeting rooms. Attendees are invited to give accessibility or disability information by email in advance, and may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.  
 
 #### Social Media
 **Do:**
