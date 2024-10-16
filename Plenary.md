@@ -3,10 +3,11 @@ layout: page
 title: "Plenary Speakers"
 ---
 
-### _Plenary Speaker_ Dr Rahia Mashoodh  
-![Rahia]({{ginbobby.github.io}}/assets/img/rahira mashoodh.png "Rahia")
+### <centre> _Plenary Speaker_ Dr Rahia Mashoodh </center>  
+<center> ![Rahia]({{ginbobby.github.io}}/assets/img/rahira mashoodh.png "Rahia") </center>  
+
 #### About Rahia 
-> Rahia completed their PhD in 2014 at Columbia University (NY, USA) in behavioural epigenetics under the supervision of Prof. Frances Champagne. They then undertook postdoctoral training (as a CIHR Postdoctoral Fellow) in genomics/epigenomics in the Department of Genetics at Cambridge University with Prof. Anne Ferguson-Smith. After this, they then took up an independent BBSRC Future Leaders fellowship in the Department of Zoology (also at Cambridge) where they were based until 2023 where they transitioned to UCL to take up an Excellence Fellowship in the Department of Genetics, Evolution & Environment.  
+> Rahia completed her PhD in 2014 at Columbia University (NY, USA) in behavioural epigenetics under the supervision of Prof. Frances Champagne. She then undertook postdoctoral training (as a CIHR Postdoctoral Fellow) in genomics/epigenomics in the Department of Genetics at Cambridge University with Prof. Anne Ferguson-Smith. After this, she then took up an independent BBSRC Future Leaders fellowship in the Department of Zoology (also at Cambridge) where she was based until 2023, where she transitioned to UCL to take up an Excellence Fellowship in the Department of Genetics, Evolution & Environment.  
 
 ### _Plenary Speaker_ Dr Jolle Jolles  
 ![Jolle]({{ginbobby.github.io}}/assets/img/jolle jolles.jpg "Jolle")
