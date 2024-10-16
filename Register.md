@@ -4,13 +4,16 @@ title: Register
 ---
 
 #### Registration and Abstract Submission opens from:  
-## Add Date  
+## _Add Date_  
 
+  
 #### Abstract Submission closes:
-## Add Date  
+## _Add Date_  
+
 
 #### Registration closes:
-## Add Date
+## _Add Date_
+
 
 ### Payment  
 * Students: £80
