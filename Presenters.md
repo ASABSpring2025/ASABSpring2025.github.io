@@ -23,9 +23,8 @@ title: Information for Presenters
 
 We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.
 
-#### Standard Talks  
-Talks should be **12 minutes** long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.  
-Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine.
+#### Standard Talks
+Talks should be **12 minutes** long, which allows 3 minutes for questions and discussion as each slot is 15 minutes. Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine.
 
 #### Flash Talks  
 Flash talks should be **5 minutes** long. There will be no questions, as the flash talk acts as an advertisement for your poster.  Flash talks typically consist of a single slide.  
