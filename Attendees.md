@@ -12,7 +12,7 @@ The experience of the ASAB conference should be that of an inclusive, safe, and 
 * Treat all conference participants with respect, courtesy, and consideration.
 * Value the diversity of opinions and views that other conference participants have.
 * Avoid personal attacks are other delegates, and only critique ideas rather than personal critiques.
-* Request permission from the conference organiser and the speaker before recording video / audio presentations and discussions.
+* Request permission from the conference organiser and the speaker before recording video/audio presentations and discussions.
 * Presenters may request that their presentation is not shared on social media, and all attendees must respect this.
 * Being conscientious of ensuring that others have the opportunity to speak in group meetings.
 
@@ -33,17 +33,15 @@ As a small conference event we seek to ensure an environment of mutual concern a
 
 #### Families  
 ASAB awards Childcare Grants of up to £500. The awards are designed to provide a flexible contribution towards the additional costs of conference attendance faced by members with young children.
-(add statement on JLMU breastfeeding/child care)  
 
-Attendees are invited to provide details of children and/or care-givers attending by [email](add email) to the organising committee. A member of the organising committee may then contact you to seek further information.  
+Attendees are invited to provide details of children and/or care-givers attending by [email](mailto:asabeaster2025@gmail.com) to the organising committee. A member of the organising committee may then contact you to seek further information.  
 
 #### Accessibility  
-The [venue](add link to venue pdf) is fully step-free wheelchair accessible, with an accessible toilet next to the meeting rooms. Attendees are invited to give accessibility or disability information by email in advance, and may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.  
+The [venues](https://www.ljmu.ac.uk/contact-us/find-us) are fully step-free wheelchair accessible, with an accessible toilet near the meeting rooms, which will be signposted on the day. Attendees are invited to give accessibility or disability information by email in advance, and may be contacted by a member of the organising committee to discuss support arrangements to ensure that all attendees find it equally easy to participate fully in the meeting.  
 
 #### Social Media
 **Do:**
-* Follow the ASAB 2025 Spring Conference on Twitter @ASAB_conference and tweet using #ASABLJMU
-* Tag @CRABExeter
+* Follow the ASAB 2025 Spring Conference on Social Media and tweet using #ASABLJMU
 * Tweet (or communicate on other social media) about what you are hearing and learning at #ASABLJMU, but refrain from sharing when the speaker explicitly requests you do so. Presentations (talks/posters) are shareable by default, but speakers can request that the presentation, or specific details or slides are not shared using a “no social media” symbol.
 * Communicate with respect and consideration for others, following good practice guidelines for your own organisation, or have a read of [LJMU University guidelines](https://www.ljmu.ac.uk/students/supporting-your-study/social-media) on the use of social media.
 * E-mail us or speak to a conference organiser (in confidence) in the first instance if you have any concerns or comments regarding the use of social media.  
