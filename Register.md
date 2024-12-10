@@ -3,25 +3,26 @@ layout: page
 title: Register
 ---
 
-#### Registration and Abstract Submission opens from:  
-## _Add Date_  
-
+## Registration is OPEN 
+>The registration for the ASAB Spring 2025 conference is offically open!
   
 #### Abstract Submission closes:
-## _Add Date_  
-
+## 01/02/2025  
 
 #### Registration closes:
-## _Add Date_
-
-
+## 01/03/2025
+  
+  
 ### Payment  
 * Students: £80
-* Non-Students: £110  
+* Non-Students (No Workshop): £120
+* Non-Students (Workshop Included): £140  
 
 >The attendance fee includes your registration fee, refreshments, lunches, and the conference [dinner](https://bundobust.com/locations/liverpool/)
 
->To confirm attendence, please pay LJMU via [this link](add link) and complete our [online registration form](add link), which includes the option for submission (see ["How to Present"](https://asabspring2025.github.io/Presenters/)). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
+>To confirm attendence, please register [through our portal](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025), which includes the option for submission of a talk or poster (see ["How to Present"](https://asabspring2025.github.io/Presenters/)). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
+
+>For help with registering, follow [this hand guide!](https://drive.google.com/file/d/10zzQFu_egjhGqI5P_kkRwTrpKcl5y8EB/view?usp=sharing)
 
 ### ASAB Conference Grant  
 >To encourage attendance at ASAB conferences, the Society awards Conference Attendance Grants of up to £500 to standard applicants, and up to £2500 to Developing Country Applicants. The award provides a contribution towards the cost of registration, accommodation, and meals, as well as the cost of travel to and from the conference. Please see the [ASAB Conference Attendance Grants](https://www.asab.org/conference-grants) page for full details of the eligibility criteria and application process.
