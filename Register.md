@@ -4,9 +4,8 @@ title: Register
 ---
 
 ## Registration is OPEN 
->The registration for the ASAB Spring 2025 conference is offically open!  
-
-### [CLICK HERE TO REGISTER](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025)
+>The registration for the ASAB Spring 2025 conference is offically open!
+#### [Register Here](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025)
   
 #### Abstract Submission closes:
 ## 01/02/2025  
