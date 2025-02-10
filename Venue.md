@@ -24,7 +24,7 @@ Our conference venue this year will be at the **James Parsons Building**
 
 #### Visit one of Liverpool's Parks or Beaches
 * **Crosby Beach:** Famous for 'Another Place' statues by Antony Gormley
-* **Hilbe Island:** Walk across the Dee Estuary to this island, only accessable at low tide!
+* **Hilbre Island:** Walk across the Dee Estuary to this island, only accessable at low tide!
 * **Sefton Park:** Visit Liverpool's largest park and the wonderful Palm House
 
 #### Fancy a Snack?
