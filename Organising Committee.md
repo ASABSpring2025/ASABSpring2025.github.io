@@ -6,7 +6,7 @@ title: "Organising Committee"
 ### Meet the team!
 
 >Our Spring 2025 ASAB team are looking forward to welcoming you to to Liverpool this April! We're an ecletic bunch of researchers studying everything from fruit flies and fish to hedgehogs and chimps!
-![Committee]({{ASABSpring2025.github.io}}/assets/img/staff 2.png "Committee")  
+![Committee]({{ASABSpring2025.github.io}}/assets/img/staff 3.png "Committee")  
 
 
 #### [Chair: Dr Susanne Zajitschek](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/susanne-zajitschek)
