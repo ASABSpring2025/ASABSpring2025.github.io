@@ -8,6 +8,8 @@ title: Information for Presenters
 * Lightning Talk (five minutes)
 * Standard Talk (fifteen minutes)  
 
+Abstracts for posters or talks will be submitted during [registration for the event.](https://asabspring2025.github.io/Register/)
+
 #### Selection Process  
 >Presentations will be selected based on the submitted title and abstract only (blind to speaker identity), which should be clear and concise (200 words maximum) and consist of:  
 
