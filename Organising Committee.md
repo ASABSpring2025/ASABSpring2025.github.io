@@ -5,7 +5,8 @@ title: "Organising Committee"
 
 ### Meet the team!
 
->Our Spring 2025 ASAB team are looking forward to welcoming you to to Liverpool this April! Come meet our team:
+>Our Spring 2025 ASAB team are looking forward to welcoming you to to Liverpool this April! Come meet our team:  
+![Committee]({{ASABSpring2025.github.io}}/assets/img/staff.png "Committee")  
 
 #### [Dr Susanne Zajitschek](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/susanne-zajitschek): Chair
 #### [Isla Botting](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/isla-botting): Webmaster and Social Media
@@ -18,4 +19,3 @@ title: "Organising Committee"
 #### [Dr Will Swaney](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/will-swaney)
 #### [Dr Patrick Tkaczynski](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/patrick-tkaczynski)
 
-![Committee]({{ASABSpring2025.github.io}}/assets/img/staff.png "Committee")
