@@ -4,14 +4,14 @@ title: Register
 ---
 
 ## Registration is OPEN 
->The registration for the ASAB Spring 2025 conference is offically open! [Register Here](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025)  
+>The registration for the ASAB Spring 2025 conference is offically open! [Register Here.](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025)  
   
-#### Abstract Submission closes:
-## 12/02/2025  
+#### Abstract Submission closes: (UPDATED DEADLINE)
+## 28/02/2025  
 
 #### Registration closes:
-## 01/04/2025
-  
+## 01/04/2025  
+>    
   
 ### Payment  
 * Students: £80
@@ -22,7 +22,8 @@ title: Register
 
 >To confirm attendence, please register [through our portal](https://buyonline.ljmu.ac.uk/product-catalogue/faculty-of-science/faculty-shop/asab-spring-meeting-2025), which includes the option for submission of a talk or poster (see ["How to Present"](https://asabspring2025.github.io/Presenters/)). You will receive a confirmation e-mail once your form is complete and payment is confirmed.
 
->For help with registering, follow [this handy guide!](https://drive.google.com/file/d/10zzQFu_egjhGqI5P_kkRwTrpKcl5y8EB/view?usp=sharing)
+>For help with registering, follow [this handy guide!](https://drive.google.com/file/d/10zzQFu_egjhGqI5P_kkRwTrpKcl5y8EB/view?usp=sharing) Abstract submission is included in the registration.
+>
 
 ### ASAB Conference Grant  
 >To encourage attendance at ASAB conferences, the Society awards Conference Attendance Grants of up to £500 to standard applicants, and up to £2500 to Developing Country Applicants. The award provides a contribution towards the cost of registration, accommodation, and meals, as well as the cost of travel to and from the conference. Please see the [ASAB Conference Attendance Grants](https://www.asab.org/conference-grants) page for full details of the eligibility criteria and application process.
