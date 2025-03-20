@@ -39,7 +39,7 @@ subtitle: ASAB Conference Logos
   <div style="width: calc(33.33% - 10px);">
     <figure style="text-align: center;">
       <img src="/assets/img/AlexWishawSkyline.jpg" alt="AlexWishaw: Liverpool Skyline" style="width: 100%; height: auto;">
-      <figcaption>AlexWishaw: Liverpool Skyline</figcaption>
+      <figcaption>Alex Wishaw: Liverpool Skyline</figcaption>
     </figure>
   </div>
 
@@ -87,15 +87,15 @@ subtitle: ASAB Conference Logos
 
   <div style="width: calc(33.33% - 10px);">
     <figure style="text-align: center;">
-      <img src="/assets/img/LaurynCoulthartKoi.png" alt="Lauryn Coulthart: Koi" style="width: 100%; height: auto;">
-      <figcaption>Lauryn Coulthart: Koi</figcaption>
+      <img src="/assets/img/OliverBarnesCow.jpg" alt="Oliver Barnes: Cow" style="width: 100%; height: auto;">
+      <figcaption>Oliver Barnes: Cow</figcaption>
     </figure>
   </div>
 
   <div style="width: calc(33.33% - 10px);">
     <figure style="text-align: center;">
-      <img src="/assets/img/OliverBarnesCow.jpg" alt="Oliver Barnes: Cow" style="width: 100%; height: auto;">
-      <figcaption>Oliver Barnes: Cow</figcaption>
+      <img src="/assets/img/LaurynCoulthartKoi.png" alt="Lauryn Coulthart: Koi" style="width: 100%; height: auto;">
+      <figcaption>Lauryn Coulthart: Koi</figcaption>
     </figure>
   </div>
 
@@ -122,7 +122,7 @@ subtitle: ASAB Conference Logos
 
    <div style="width: calc(33.33% - 10px);">
     <figure style="text-align: center;">
-      <img src="/assets/img/RomanOrfanidisLiverbird.jpg" alt="Roman Orfanidis: Snaker Liverbird" style="width: 100%; height: auto;">
+      <img src="/assets/img/RomanOrfanidisLiverbird.jpg" alt="Roman Orfanidis: Snake Liverbird" style="width: 100%; height: auto;">
       <figcaption>Roman Orfanidis: Snaker Liverbird</figcaption>
     </figure>
   </div>
