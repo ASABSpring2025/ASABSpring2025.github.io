@@ -17,11 +17,3 @@ title: "Gallery"
   </div>
   <!-- Add more images here as needed -->
 </div>
-
-### Line Break
-
-{% gallery %}
-![First image by `xxx`](/assets/img/ASAB Square.jpg)
-![Second image](ASABSpring2025.github.io/assets/img/liverpoolcity.jpg)
-![Third image]("/assets/img/Dumbledore_-_Prisoner_of_Azkaban.jpg")
-{% endgallery %}
