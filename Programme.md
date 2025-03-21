@@ -3,6 +3,11 @@ layout: page
 title: Programme
 ---
 
+### Preliminary Schedule:
+>This may be subject to change
+
+![Prelim Schedule]({{ASABSpring2025.github.io}}/assets/img/staff 3.png)  
+
 #### Day 1: 23rd of April 2025  
 Workshop on _Science Communication_  
 >Our ASAB 2025 Workshop will be focusing on Science Communication. We have teamed up with the legendary Silverback Films to develop a day full of all the nitty gritty details of scientific filmmaking, from both the creative and filmmaker perspective. We will be joined by Dr Tom Fletcher and Tom Land from Silverback, alongside LJMU’s own Camilla Affleck (Liverpool Screen School) and Professor Peter Falkingham *(hint hint- prepare for dinosaurs)*. We will be hosting our workshop in LJMU's [Student Life Building](https://maps.app.goo.gl/aaLeXKDHPvVnzfkG9)
