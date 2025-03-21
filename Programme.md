@@ -6,7 +6,7 @@ title: Programme
 ### Preliminary Schedule:
 >This may be subject to change
 
-![Prelim Schedule]({{ASABSpring2025.github.io}}/assets/img/staff 3.png)  
+![Prelim Schedule]({{ASABSpring2025.github.io}}/assets/img/preliminary schedule asab.png)  
 
 #### Day 1: 23rd of April 2025  
 Workshop on _Science Communication_  
