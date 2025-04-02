@@ -23,10 +23,12 @@ title: "Plenary Speakers"
 
 <br>
 
-<h3 align="center"><em>Student Plenary</em> TBC </h3>  
+<h3 align="center"><em>Student Plenary Winner:</em> <b>Elisa Fernández Fueyo</b> </h3>  
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/mysteryperson.jpg" alt="Student Plenary" style="max-width: 250px; width: 100%; height: auto;">
+  <img src="/assets/img/original-C5D10D16-92E1-4BC4-9696-98EE21D045A2.jpeg" alt="Elisa Fernández Fueyo" style="max-width: 250px; width: 100%; height: auto;">
 </div>
+<h4 align="left"> Congratulations to our nominated Student Plenary Speaker, Elisa Fernández Fueyo! </h4>
+<p> Elisa is a PhD student studying primate communication with the Royal Holloway University of London, University College London, and the Tsaobis Baboon Project. Elisa previously conducted her BSc in Biology at University of Oviedo (Asturias, Spain), her MSc in Human Evolution and Behaviour at the University College London, and additionally conducted an internship with rescued chimpanzees at MONA Foundation (Girona, Spain). Elisa's plenary talk will focus on her PhD research, "What can baboons tell us about the evolution of language? A quantitative approach to intentionality and flexibility in animal communication". </p>
 
 <br>
 
