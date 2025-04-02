@@ -3,7 +3,7 @@ layout: page
 title: Register
 ---
 
-## General registration is still OPEN
+## General registration is CLOSED
 
 #### General registration deadline:
 ## 01/04/2025  
