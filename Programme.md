@@ -3,10 +3,10 @@ layout: page
 title: Programme
 ---
 
-### Preliminary Schedule:
->This may be subject to change
+### Our Conference Schedule is now available for viewing!
+>Please be aware there might be slight alterations to the programme. A final version will be released soon.
 
-![Prelim Schedule]({{ASABSpring2025.github.io}}/assets/img/preliminary schedule asab.png)  
+#### [Click Here to View](https://drive.google.com/file/d/1zxBojP4ZPjBlXn60Pxpblgw-hMBK5R43/view?usp=sharing)  
 
 #### Day 1: 23rd of April 2025  
 Workshop on _Science Communication_  
