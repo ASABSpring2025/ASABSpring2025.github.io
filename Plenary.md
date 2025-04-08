@@ -32,7 +32,8 @@ title: "Plenary Speakers"
 
 <br>
 
-<h3 align="center"><em>Chris Bernard Award Winner</em> TBC </h3>  
+<h3 align="center"><em>Chris Bernard Award Winner:</em> <b>Liran Samuni</b> </h3>  
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/mysteryperson.jpg" alt="Student Plenary" style="max-width: 250px; width: 100%; height: auto;">
+  <img src= "/assets/img/SS-liran-samuni-headshot.jpg" alt="Chris Bernard Winner" style="max-width: 250px; width: 100%; height: auto;">
 </div>
+<p> Dr. Liran Samuni is a postdoctoral fellow at Harvard University, where her research focuses on cooperation and intergroup relations in chimpanzees. She completed her PhD in Biology at the Max Planck Institute for Evolutionary Anthropology in 2019 and received her Masters in Zoology from the Tel-Aviv University in 2013. Before moving to Harvard, she was also a postdoctoral researcher at  Max Planck. She has studied non-human primates for over a decade, studying the intersection between intergroup dynamics, cooperation, and social bonds in chimpanzees and bonobos, our closest living relatives, as windows into our past. She approaches these questions by observing wild chimpanzees at the Taï National Park, Côte d’Ivoire, and wild bonobos at the Kokolopori Bonobo Reserve, DR Congo.</p>
