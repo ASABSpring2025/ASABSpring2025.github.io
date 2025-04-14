@@ -6,7 +6,7 @@ title: Programme
 ### Our Conference Schedule is now available for viewing!
 >Please be aware there might be slight alterations to the programme. A final version will be released soon.
 
-#### [Click Here to View](https://drive.google.com/file/d/1sTWzReJIAepdH0I35tTVUMgOdZs0IjJZ/view?usp=sharing)  
+#### [Click Here to View](https://drive.google.com/file/d/1g29ZA_i6PDWEfm7Clhq-FLN7Tqsz8juE/view?usp=sharing)  
 <br>
 #### Day 1: 23rd of April 2025  
 Workshop on _Science Communication_  
