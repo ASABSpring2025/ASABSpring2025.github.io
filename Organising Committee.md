@@ -20,4 +20,14 @@ title: "Organising Committee"
 #### [Dr Adam Reddon](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/adam-reddon)
 #### [Dr Will Swaney](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/will-swaney)
 #### [Dr Patrick Tkaczynski](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/school-of-biological-and-environmental-sciences/patrick-tkaczynski)
+#### Dr Danielle Hinchcliffe  
 
+### Volunteers:
+#### Kathryn Bielby
+#### Katie Crawford 
+#### Zhitian Hu
+#### Rebecca Lowes
+#### Richard Muir
+#### Rosie Webber
+#### Sally Westworth
+#### Aisling Wort
